@@ -34,5 +34,10 @@ pip install pyshorteners
 pip install pillow
 ```
 
+## To run⚙️
+```bash
+python url_shortener.py
+```
+
 ## License
-This repository is under [MIT License]()
+This repository is under [MIT License](https://github.com/Harshit2012/QuickSnipURL/blob/main/LICENSE)
