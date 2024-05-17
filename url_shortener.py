@@ -21,7 +21,7 @@ root.title("QuickSnipURL")
 root.geometry("400x400")
 root.resizable(False, False)
 
-icon_image = Image.open('logo.jpg')
+icon_image = Image.open('QuickSnipURL-main/logo.jpg')
 icon_photo = ImageTk.PhotoImage(icon_image)
 root.iconphoto(False, icon_photo)
 
